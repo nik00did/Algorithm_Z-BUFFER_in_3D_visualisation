@@ -1,0 +1,9 @@
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\bin\Debug\Z_BUFFER.exe.config
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\bin\Debug\Z_BUFFER.exe
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\bin\Debug\Z_BUFFER.pdb
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\obj\Debug\Z_BUFFER.csprojResolveAssemblyReference.cache
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\obj\Debug\Z_BUFFER.Form1.resources
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\obj\Debug\Z_BUFFER.Properties.Resources.resources
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\obj\Debug\Z_BUFFER.csproj.GenerateResource.Cache
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\obj\Debug\Z_BUFFER.exe
+C:\Users\NIK.00.DID\PROJECTS\Z_BUFFER\Z_BUFFER\obj\Debug\Z_BUFFER.pdb
